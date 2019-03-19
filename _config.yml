@@ -111,3 +111,6 @@ plugins:
 
 jekyll-mentions:
     base_url: https://github.com
+
+exclude: ["*.md", "*.sh", "Rakefile", "Gemfile"]
+
