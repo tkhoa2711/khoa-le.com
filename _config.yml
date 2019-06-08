@@ -112,7 +112,6 @@ plugins:
 jekyll-mentions:
     base_url: https://github.com
 
-<<<<<<< HEAD
 compress_html:
     ignore:
         envs:
@@ -120,7 +119,3 @@ compress_html:
         - stage
 
 exclude: ["travis.sh", "Rakefile", "README.md", "Gemfile", "Gemfile.lock", "FAQ.md"]
-=======
-exclude: ["*.md", "*.sh", "Rakefile", "Gemfile"]
-
->>>>>>> exclude certain files from the build
