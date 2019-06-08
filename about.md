@@ -18,8 +18,8 @@ that would entertain you on other topics well.</p>
 <h2>Resume</h2>
 
 <p>
-	If you're that interest in my career path so far, here is my latest 
-	<a href="/Resume.pdf">resume</a>.
+	If you're that interest in my career path so far, here is my latest
+	<a href="assets/Resume.pdf">resume</a>.
 </p>
 
 <h2>My personal projects</h2>
